@@ -1,11 +1,11 @@
 # Site settings
-author: Wendy Harris
-title: 
+author: Wendy Harris 
+title: Software Engineering 
 header-img: img/home-bg.png
 email: wendyv510@hotmail.com
-copyright_name: Wendy Harris
+copyright_name: Wendy Harris 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Wendyv510
